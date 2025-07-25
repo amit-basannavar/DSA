@@ -1,4 +1,4 @@
-package com.practice.array.strings;
+package com.practice.strings;
 
 import java.util.Arrays;
 import java.util.LinkedHashMap;
